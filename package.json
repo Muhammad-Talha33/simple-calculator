@@ -1,6 +1,6 @@
 {
   "name": "calclteasy-simple-calculator",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A simple calculator with TypeScript, Node.js and Inqirer",
   "main": "index.js",
   "type": "module",
@@ -9,7 +9,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Muhammad Talha",
-  "license": "MIT",
+  "license": "ISC",
   "dependencies": {
     "inquirer": "^9.2.16"
   },
