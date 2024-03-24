@@ -37,5 +37,5 @@ else if (answer.operator === "Exponentiation") {
     console.log(chalk.greenBright(answer.firstNumber ** answer.secondNumber));
 }
 else {
-    console.log("Please select valid operator");
+    console.log("Please choose a valid operator");
 }
